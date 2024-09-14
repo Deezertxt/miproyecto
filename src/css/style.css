@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(49, 49, 49);
+}
+
+.barraSup{
+    background-color: rgb(56, 142, 255);
+    position: relative;
+}
+
+.tituloLogin{
+    padding-left: 50%;
+    color: white;
+    position: fixed;
+    /*text-align: center;
+    align-items: center;*/
+}
+
+.menu{
+    position: auto;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+
+.logo{
+    padding-right: 25px;
+    justify-content: center;
+    align-items: center;
+}
+
+.inpuLogin{
+    padding-left: 25px;
+    
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.buttonSU{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
